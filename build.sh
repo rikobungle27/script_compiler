@@ -15,7 +15,7 @@ BUILD_HOST=
 KERNEL_DIR=$HOME/yourdir/$KERNEL_NAME
 CLANG_DIR=$HOME/yourdir
 IMAGE_DIR=$HOME/yourdir/$KERNEL_NAME
-KERNEL_SOURCE=https://github.com/cloudprject/mt6768_karamel
+KERNEL_SOURCE=
 
 # clone clang & sorce kernel
 git clone --depth=1 $KERNEL_SOURCE $HOME/yourdir/$KERNEL_NAME
