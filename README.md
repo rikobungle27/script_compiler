@@ -12,4 +12,5 @@ Kernel compiler vps/server by @cloudprject
 - BUILD_USER | # your build user 
 - BUILD_HOST | # Your build host
 - yourdir |    # Your directory where u put kernel/clang source, ex : $HOME/cloud
-_yourdir is at_ CLANG_DIR, IMAGE_DIR, KERNEL_DIR, and _# clone clang & kernel(first line)_
+
+- _yourdir is at_ CLANG_DIR, IMAGE_DIR, KERNEL_DIR, and _# clone clang & kernel(first line)_
